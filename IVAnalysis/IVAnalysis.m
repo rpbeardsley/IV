@@ -1,7 +1,7 @@
 %Plots and outputs I-V, P-V, R-V and delta-V from the raw data obtained
 %from I-V traces measured using a 1000 Ohm load resistor.
 
-DirName = 'C:\Documents and Settings\Ryan\Desktop\test\';
+DirName = 'FILE_PATH_HERE';
 FileName = 'IV-1.dat';
 
 fname = [DirName, FileName];
